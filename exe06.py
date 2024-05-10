@@ -14,3 +14,7 @@ elif num1 == num2 or num2 == num3 or num1 == num3:
     print('São iguais')
 else:
     print('Número 3 é maior')
+
+############################################
+numeros = [7, 2, 9]
+print(max(numeros))
