@@ -20,3 +20,10 @@ if num3 <= num2 and num3 < num1:
 
 print('O menor número digitado foi:', menor)
 print('O maior número digitado foi:', maior)
+
+
+########################################################################
+
+numeros = [7, 2, 9]
+print('O maior número é:', max(numeros))
+print('O menor número é:', min(numeros))
